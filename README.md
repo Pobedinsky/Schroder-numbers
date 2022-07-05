@@ -2,7 +2,6 @@
 This project was used to the subject Functional Programming. It's basically a calculator of Schroder numbers. 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
 $ git clone https://github.com/Pobedinsky/Schroder-numbers.git
